@@ -1,0 +1,27 @@
+#heading{
+	text-align: center;
+	font-size: 50px;
+	color: #660000;
+	text-decoration: underline;
+}
+
+#subheading{
+	text-align: center;
+	font-size: 40px;
+	color:#000066;
+	text-decoration: underline;
+}
+
+#ass{
+	text-align: center;
+	size: 50px;
+
+}
+
+a { 
+	color: inherit; 
+	font-size: 30px;
+	text-decoration: none;
+	background-color: #FFCC99;
+	padding: 20px;
+} 
