@@ -13,9 +13,10 @@ Special thanks to [Dr. Colleen E van Lent](https://www.coursera.org/instructor/~
 
 ## Table of Contents
 
-| Content | Assignment | Quiz | Link |
-|:--------------|:----------------:|:----------------:|:----------------:|
-|				|					|					|					|
+| Content | Assignment | Link |
+|:--------------|:----------------:|:----------------:|
+|		1.		|Interactive Photo Gallery|	https://prithaupadhyay.github.io/Interactivity-With-JavaScript/html/photo.html|			
+|		2.		|Autocomplete With JavaScript|https://prithaupadhyay.github.io/Interactivity-With-JavaScript/html/billing.html|		
 
 
 ## Author
